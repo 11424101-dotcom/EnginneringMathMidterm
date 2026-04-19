@@ -17,8 +17,10 @@
 YYYY/MM/DD 
 
 - 2026/4/18 fast use cmd git push to github
+- 2026/4/19 modify latex to github
 
 ## Error and Debug
+
 
 
 
