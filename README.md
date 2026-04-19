@@ -21,7 +21,8 @@ YYYY/MM/DD
 
 ## Error and Debug
 
-
+- In Vscode can use LaTex but to Github can't
+`ex: you can as < br > but in Vscode`
 
 
 ![/image.png](image.png)
