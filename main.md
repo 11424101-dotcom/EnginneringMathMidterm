@@ -3,7 +3,7 @@
 ## 一、問題描述
 考慮 RLC 電路，其電流滿足以下微分方程（KVL）：
 
-:contentReference[oaicite:0]{index=0}
+$$:contentReference[oaicite:0]{index=0}$$
 
 給定輸入電壓：
 
