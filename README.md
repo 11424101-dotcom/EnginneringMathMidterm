@@ -1,28 +1,14 @@
-# EnginneringMathMidterm
-
-`11424101陳閔駿`
-
-## Process
-1. Read the  topic
-2. Read all class pages
-3. think the question Laplace transform？
-4. I can't not because is difficult. than i have ask GPT
-
-## Question GPT
-1. fast my token is `help me over this homework use the Laplace transform`
-2. GPT output `Second-Order Differential Equations `
-3. i thank is't `Laplace transform`
+# Homework 
 
 ## version
-YYYY/MM/DD 
 
-- 2026/4/18 fast use cmd git push to github
-- 2026/4/19 modify latex to github
+5.30.6.25 add the HW1 and HW2
 
-## Error and Debug
+## note
 
-- In Vscode can use LaTex but to Github can't
-`ex: you can as < br > but in Vscode`
+- first add the file with chatgpt
+- serch use Searching for and learning the knowledge used in assignments
 
+## link 
 
-![/image.png](image.png)
+[Laplace transform](https://medium.com/@acamvproducingstudio/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E8%BD%89%E6%8F%9B%E8%88%87%E8%BD%89%E7%A7%BB%E5%87%BD%E6%95%B8-%E8%A8%8A%E8%99%9F%E8%88%87%E7%B3%BB%E7%B5%B1%E5%A4%A7%E8%A3%9C%E5%B8%96-%E5%85%AB-71bc43542d88)
