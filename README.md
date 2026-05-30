@@ -3,11 +3,27 @@
 ## version
 
 5.30.6.25 add the HW1 and HW2
+5.30.6.39 add new branch
 
 ## note
 
 - first add the file with chatgpt
 - serch use Searching for and learning the knowledge used in assignments
+
+## Git
+
+```zsh
+git branch
+git checkout -b HomeWork2
+git switch -c HomeWork2
+```
+in this repository add new branch
+```zsh
+git add .
+git commit -m "test"
+git push --set-upstream origin HomeWork2
+```
+push to HomeWork2
 
 ## link 
 
