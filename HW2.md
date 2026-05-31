@@ -133,18 +133,16 @@ x\cos(nx)\,dx
 
 
 Because
-```math
-- \(x\) Odd Function
-- \(\cos(nx)\) Even Function
-```
+
+
+- x Odd Function
+- cos(nx) Even Function
 
 
 Thus
 
 
 $$x\cos(nx)$$
-
-
 Odd Function
 
 ```math
@@ -224,8 +222,8 @@ x\sin(nx)\,dx
 
 Because
 
-- \(x\) Odd Function
-- \(\sin(nx)\) Odd Function
+- x Odd Function
+- sin(nx) Odd Function
 
 Thus
 
@@ -414,6 +412,3 @@ x+\pi
 }
 ```
 
-```math
--\pi<x<\pi
-```
