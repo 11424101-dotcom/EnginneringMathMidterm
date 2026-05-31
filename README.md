@@ -4,11 +4,14 @@
 
 5.30.6.25 add the HW1 and HW2
 5.30.6.39 add new branch
+5.31.11.21 modify morkdown viwe error
 
 ## note
 
 - first add the file with chatgpt
 - serch use Searching for and learning the knowledge used in assignments
+- In markdown math we can use $$ or \[ but github use ```math
+
 
 ## Git
 
