@@ -29,57 +29,57 @@ a_n\cos nx+b_n\sin nx
 
 Where
 
-
+```math
 a_0
 =
 \frac{1}{\pi}
 \int_{-\pi}^{\pi}
 f(x)\,dx
+```
 
-
-
+```math
 a_n
 =
 \frac{1}{\pi}
 \int_{-\pi}^{\pi}
 f(x)\cos(nx)\,dx
+```
 
-
-
+```math
 b_n
 =
 \frac{1}{\pi}
 \int_{-\pi}^{\pi}
 f(x)\sin(nx)\,dx
-
+```
 
 ---
 
 
-# Step 2: Find the Constant Term \(a_0\)
+# Step 2: Find the Constant Term $$\(a_0\)$$
 
 
 
-Substitute \(f(x)=x+\pi\)
+Substitute $$\(f(x)=x+\pi\)$$
 
-
+```math
 a_0
 =
 \frac{1}{\pi}
 \int_{-\pi}^{\pi}
 (x+\pi)\,dx
+```
 
-
-
+```math
 =
 \frac{1}{\pi}
 \left[
 \frac{x^2}{2}
 +\pi x
 \right]_{-\pi}^{\pi}
+```
 
-
-
+```math
 =
 \frac{1}{\pi}
 \left(
@@ -87,38 +87,37 @@ a_0
 \right)
 
 
-
 =2\pi
 
-
+```
 
 
 Therefore
 
-
+```math
 \frac{a_0}{2}
 =
 \pi
-
+```
 
 ---
 
 
 # Step 3: Find the Cosine Coefficient \(a_n\)
 
-
+```math
 a_n
 =
 \frac{1}{\pi}
 \int_{-\pi}^{\pi}
 (x+\pi)\cos(nx)\,dx
-
+```
 
 
 
 Split into two integrals
 
-
+```math
 a_n
 =
 \frac{1}{\pi}
@@ -129,15 +128,15 @@ x\cos(nx)\,dx
 \int_{-\pi}^{\pi}
 \pi\cos(nx)\,dx
 
-
+```
 
 
 
 Because
-
+```math
 - \(x\) Odd Function
 - \(\cos(nx)\) Even Function
-
+```
 
 
 Thus
