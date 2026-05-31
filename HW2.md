@@ -3,9 +3,7 @@
 
 Find the Fourier Series of
 
-$$
-f(x)=x+\pi,\qquad -\pi\le x\le \pi
-$$
+$$f(x)=x+\pi,\qquad -\pi\le x\le \pi$$
 
 ---
 
